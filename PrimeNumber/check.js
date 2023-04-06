@@ -12,4 +12,4 @@ if(check){
     console.log('prime');
 }else{
     console.log('not prime');
-}
+}fdf
