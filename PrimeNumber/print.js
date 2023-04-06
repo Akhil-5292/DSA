@@ -15,7 +15,6 @@ function isPrime(n){
         return false
     }
 }
-
 let n=50;
 
 let arr=[]
