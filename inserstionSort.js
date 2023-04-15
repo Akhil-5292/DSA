@@ -3,7 +3,7 @@ function insertionSort(arr){
         let currVal=arr[i]
         let j
 
-        for(let j=i-1; j>=0; j--){
+        for(let j=i-1; j>=0 && arr[j]>currVal; j--){
             arr[j+1]=arr[j]
         }
          arr[j+1]=currVal
