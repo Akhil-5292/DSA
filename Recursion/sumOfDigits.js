@@ -7,4 +7,4 @@ function sum(n){
 
 const n=12345
 
-console.log(sum(n));
+console.log(sum(n))
