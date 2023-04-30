@@ -52,4 +52,4 @@ function mergeSort(arr,l,r){
 let arr=[4,5,6,8,2,1,3]
 let l=0
 let r=arr.length-1
-console.log(mergeSort(arr,l,r));
+console.log(mergeSort(arr,l,r))
