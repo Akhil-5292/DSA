@@ -7,4 +7,4 @@ function toi(n,A,C,B){
     toi(n-1,B,C,A)
 }
 
-toi(3,'A','B','C')
+toi(3,'A','B','C');
