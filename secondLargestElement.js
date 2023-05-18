@@ -20,4 +20,4 @@ function SecondLargest(n,val){
     console.info(keys)
     console.log(keys[keys.length-2])
   }
-  let val = [-1,-2,0,1,2]
+  let val = [-1,-2,0,1,2];
