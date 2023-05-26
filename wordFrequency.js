@@ -13,4 +13,4 @@ function WordFrequency(str) {
   
   const str =
     "Success is not the key of Happiness, Happiness is the key of success";
-  WordFrequency(str);
+  WordFrequency(str)
